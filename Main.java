@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 class Main {
+  //Throws allows for the use of Thread.sleep
   public static void main(String[] args) throws InterruptedException {
     int intZero = 0;
     Scanner myInput = new Scanner (System.in);
